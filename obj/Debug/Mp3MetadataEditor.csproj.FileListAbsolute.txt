@@ -1,0 +1,10 @@
+D:\Projetos\C#\Mp3MetadataEditor\obj\Debug\Mp3MetadataEditor.csproj.AssemblyReference.cache
+D:\Projetos\C#\Mp3MetadataEditor\obj\Debug\Mp3MetadataEditor.csproj.CoreCompileInputs.cache
+D:\Projetos\C#\Mp3MetadataEditor\bin\Debug\Mp3MetadataEditor.dll
+D:\Projetos\C#\Mp3MetadataEditor\bin\Debug\Mp3MetadataEditor.pdb
+D:\Projetos\C#\Mp3MetadataEditor\bin\Debug\TagLibSharp.dll
+D:\Projetos\C#\Mp3MetadataEditor\bin\Debug\TagLibSharp.pdb
+D:\Projetos\C#\Mp3MetadataEditor\bin\Debug\TagLibSharp.xml
+D:\Projetos\C#\Mp3MetadataEditor\obj\Debug\Mp3Metad.C35475D2.Up2Date
+D:\Projetos\C#\Mp3MetadataEditor\obj\Debug\Mp3MetadataEditor.dll
+D:\Projetos\C#\Mp3MetadataEditor\obj\Debug\Mp3MetadataEditor.pdb
